@@ -1,0 +1,3 @@
+[submodule "redbKIT"]
+	path = redbKIT
+	url = https://github.com/redbKIT/redbKIT.git
