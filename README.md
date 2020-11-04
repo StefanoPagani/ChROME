@@ -54,7 +54,7 @@ Please cite this code by adding the following reference to your work:
 Development
 -------
 
-LocalROM was developed and is currently maintained by [`Stefano Pagani`](https://stefanopagani.github.io).
+ChROME was developed and is currently maintained by [`Stefano Pagani`](https://stefanopagani.github.io).
 
 The code uses as submodule the redbkit toolkit:
 
