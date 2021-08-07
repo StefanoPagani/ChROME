@@ -4,7 +4,7 @@
 
 **The complete code will be released after Journal publication.** 
 
-A novel technique for constructing a statistical closure model for reduced-order models (ROMs) applied to stationary systems is here implemented and tested on both linear and nonlinear stationary systems.
+A novel technique for constructing a statistical closure model for reduced-order models (ROMs) applied to stationary systems is implemented and tested on both linear and nonlinear stationary systems.
 
 This MATLAB code enables to reproduce the methodology and the numerical experiments presented in the submitted article:
 >[**[PMC19] S. Pagani, A. Manzoni, K. Carlberg. Statistical closure modeling for reduced-order models of stationary systems by the ROMES method**, [`arXiv:1901.02792`](https://arxiv.org/pdf/1901.02792.pdf) , 2019.]
@@ -13,7 +13,7 @@ This MATLAB code enables to reproduce the methodology and the numerical experime
 Download and Installation
 -------
 
-To install the library, extract the ZIP file or clone the git repository.
+To install this library, extract the ZIP file or clone the git repository.
 
 Run the script by running the setup file
 ```Matlab
@@ -36,11 +36,12 @@ make(1)
 Examples
 -------
 
-The examples contains Matlab scripts which enable to reproduce the numerical results shown in the paper [`Statistical closure modeling for reduced-order models of stationary systems by the ROMES method`](https://arxiv.org/pdf/1901.02792.pdf)
+The examples contain Matlab scripts which enable to reproduce the numerical results shown in the paper [`Statistical closure modeling for reduced-order models of stationary systems by the ROMES method`](https://arxiv.org/pdf/1901.02792.pdf)
 
 
 In order to run, in a small amount of time, the scripts have been modified. 
-The paper setting are commented and can be uncommented in order to obtain the same results.
+
+Computationally expensive settings are reported as commented lines of code.
 
 License
 -------
